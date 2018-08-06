@@ -1,1 +1,3 @@
-a nice red-ish planet with little atmosphere
+a nice red-ish planet with little atmosphere.
+
+Has some pretty large mountains! Also: test
